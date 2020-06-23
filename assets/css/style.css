@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-//*styling for header and nav*//
+/*styling for header and nav*/
 
 header {
     padding: 20px;
@@ -43,20 +43,20 @@ header nav ul li {
     margin-left: 25px;
 }
 
-//*font color for the links*//
+/*font color for the links*/
 
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-//*font size for paragraphs*//
+/*font size for paragraphs*/
 
 p {
     font-size: 16px;
 }
 
-//*background image and styling*//
+/*background image and styling*/
 
 .hero {
     height: 800px;
@@ -67,7 +67,7 @@ p {
     background-position: center;
 }
 
-//*positioning of the main images for SEO, online reputation management, social media marketing*//
+/*positioning of the main images for SEO, online reputation management, social media marketing*/
 
 .float-left {
     float: left;
@@ -81,7 +81,7 @@ p {
     margin-left: 25px;
 }
 
-//*positioning and blocking of main*//
+/*positioning and blocking of main*/
 
 main {
     width: 75%;
@@ -89,7 +89,7 @@ main {
     margin-left: 20px;
 }
 
-//* positioning and blocking of aside*//
+/* positioning and blocking of aside*/
 
 aside {
     margin-right: 20px;
@@ -102,7 +102,7 @@ aside {
     background-color: #2589bd;
 }
 
-//*text color and positioning for aside content*//
+/*text color and positioning for aside content*/
 
 .benefit-lead {
     margin-bottom: 32px;
@@ -134,7 +134,7 @@ aside {
     text-align: center;
 }
 
-//*positioning and blocking for aside graphics and logos*//
+/*positioning and blocking for aside graphics and logos*/
 
 .benefit-lead img {
     display: block;
@@ -154,7 +154,7 @@ aside {
     max-width: 150px;
 }
 
-//*positioning and styling of main content*//
+/*positioning and styling of main content*/
 
 #search-engine-optimization {
     margin-bottom: 20px;
@@ -183,7 +183,7 @@ aside {
     color: #ffffff;
 }
 
-//*img sizing for main content*//
+/*img sizing for main content*/
 
 .search-engine-optimization img {
     max-height: 200px;
@@ -197,7 +197,7 @@ aside {
     max-height: 200px;
 }
 
-//*main content font sizing and positioning*//
+/*main content font sizing and positioning*/
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
@@ -214,7 +214,7 @@ aside {
     font-size: 36px;
 }
 
-//*styling for the footer*//
+/*styling for the footer*/
 
 footer {
     padding: 30px;
