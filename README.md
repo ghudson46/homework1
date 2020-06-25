@@ -4,4 +4,4 @@ We were given an initial file and were asked to change all non-semantic elements
 I used Semantic HTML elements, organized structure with headings, comments, alternate text for images, descriptive links, and appropriate colors to maximize accessibility and provide better optimization for search engines.
 
 ## Deployment
-[Link to the webpage](https://www.google.com)
+[Link to the webpage](file:///C:/Users/garre/homework1/index.html)
