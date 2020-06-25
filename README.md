@@ -1,13 +1,7 @@
 # Accessible Website for Horiseon
-This source code provides an example of an accessible website. This code is optimized for screen readers and search engines.
+We were given an initial file and were asked to change all non-semantic elements into semantic markup, as well as clean up the HTML and  CSS following the scout rule. This source code provides an example of an accessible website. This code is optimized for screen readers and search engines.
 ## Included Criteria
-&nbsp;-Semantic HTML elements
-&nbsp;nbsp;-Organized structure with headings
-&nbsp;-Well commented structure
-&nbsp;-Alt text provided for images
-&nbsp;-Links have unique and descriptive names 
-&nbsp;-Appropriate colors utilized
-&nbsp;-Keyboard-friendly
+I used Semantic HTML elements, organized structure with headings, comments, alternate text for images, descriptive links, and appropriate colors to maximize accessibility and provide better optimization for search engines.
 
 ## Deployment
-[link](file:///C:/Users/garre/homework1/index.html)
+[Link to the webpage](https://www.google.com)
