@@ -4,4 +4,5 @@ We were given an initial file and were asked to change all non-semantic elements
 I used Semantic HTML elements, organized structure with headings, comments, alternate text for images, descriptive links, and appropriate colors to maximize accessibility and provide better optimization for search engines.
 
 ## Deployment
-[Link to the webpage](https://ghudson46.github.io/homework1-coderefractor/)
+[deployed application](https://ghudson46.github.io/homework1-coderefractor/)
+[GitHub Repository](https://github.com/ghudson46/homework1-coderefractor/)
